@@ -3,5 +3,6 @@ public class my_file{
 		System.out.println("First project git");
 		System.out.println("New line");
 		System.out.println("Adding future plans");
+		System.out.println("No conflict");
 	}
 }
